@@ -15,7 +15,7 @@
   "devEngines": {
     "packageManager": {
       "name": "pnpm",
-      "version": "^11.15.1",
+      "version": "11.15.1",
       "onFail": "download"
     }
   },
@@ -35,11 +35,11 @@
     "@types/debug": "^4.1.13",
     "@types/express": "^5.0.6",
     "@types/morgan": "^1.9.10",
-    "@types/node": "^26.1.1",
+    "@types/node": "^22.18.0",
     "cross-env": "^10.1.0",
     "nodemon": "^3.1.14",
     "tsc-alias": "^1.9.1",
     "tsx": "^4.23.1",
-    "typescript": "^7.0.2"
+    "typescript": "^5.9.2"
   }
 }
